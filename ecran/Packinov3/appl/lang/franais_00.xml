@@ -1,175 +1,245 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<languagedata>
-	<fileversion major='1' minor='5'/>
-	<systemkeyboard path="de_CH"/>
-	<textprint mode="text" fontid='0' size='10' bold='0' italic='0' underline='0' strikeout='0'/>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languageData>
+	<fileversion major="1" minor="5" />
+	<systemkeyboard path="de_CH" />
+	<textprint fontid="0" size="10" bold="0" italic="0" />
 	<fonts>
-		<font id='0' fontname="Arial" filename="Arial.ttf" fontsizefactor='100'/>
-		<font id='1' fontname="Tahoma" filename="Tahoma.ttf" fontsizefactor='100'/>
+		<font id="0" fontname="Arial" filename="arial.ttf" fontsizefactor="100" regular="1" bold="0" italic="0" />
+		<font id="1" fontname="Tahoma" filename="tahoma.ttf" fontsizefactor="100" regular="1" bold="0" italic="0" />
+		<font id="2" fontname="Arial Bold" filename="arialbd.ttf" fontsizefactor="100" regular="0" bold="1" italic="0" />
 	</fonts>
 	<texts>
 		<standard>
-			<s0><![CDATA[]]></s0>
-			<s1><![CDATA[Attente]]></s1>
-			<s2><![CDATA[Sécurité contacteur]]></s2>
-			<s3><![CDATA[MODE D'INJECTION]]></s3>
-			<s4><![CDATA[Activation]]></s4>
-			<s5><![CDATA[Nettoyage]]></s5>
-			<s6><![CDATA[Volumétrique]]></s6>
-			<s7><![CDATA[Niveau]]></s7>
-			<s8><![CDATA[Cadence]]></s8>
-			<s9><![CDATA[Coulage Niveau]]></s9>
-			<s10><![CDATA[Vidange]]></s10>
-			<s12><![CDATA[Valider]]></s12>
-			<s19><![CDATA[Débulleuse]]></s19>
-			<s24><![CDATA[Radian N°1]]></s24>
-			<s25><![CDATA[Radian N°2]]></s25>
-			<s27><![CDATA[Four]]></s27>
-			<s31><![CDATA[Compteur]]></s31>
-			<s34><![CDATA[OUI]]></s34>
-			<s36><![CDATA[MAINTENANCE]]></s36>
-			<s38><![CDATA[Vitesse moteur]]></s38>
-			<s39><![CDATA[Aspiration]]></s39>
-			<s40><![CDATA[Refoulement]]></s40>
-			<s42><![CDATA[Destination]]></s42>
-			<s43><![CDATA[Réel]]></s43>
-			<s45><![CDATA[Défauts]]></s45>
-			<s48><![CDATA[Correction]]></s48>
-			<s51><![CDATA[Injecteur]]></s51>
-			<s52><![CDATA[Maintenance]]></s52>
-			<s54><![CDATA[Gr]]></s54>
-			<s55><![CDATA[°C]]></s55>
-			<s60><![CDATA[s]]></s60>
-			<s63><![CDATA[Pcs]]></s63>
-			<s64><![CDATA[Injecteur N°1]]></s64>
-			<s68><![CDATA[%]]></s68>
-			<s71><![CDATA[1er COULAGE]]></s71>
-			<s72><![CDATA[2ème COULAGE]]></s72>
-			<s73><![CDATA[Injecteur]]></s73>
-			<s75><![CDATA[FOUR]]></s75>
-			<s76><![CDATA[DEBULLEUSE]]></s76>
-			<s77><![CDATA[RADIAN]]></s77>
-			<s78><![CDATA[N°1]]></s78>
-			<s79><![CDATA[N°2]]></s79>
-			<s80><![CDATA[CHAINE]]></s80>
-			<s81><![CDATA[BAC]]></s81>
-			<s82><![CDATA[Chauffage]]></s82>
-			<s89><![CDATA[P/H]]></s89>
-			<s90><![CDATA[Pompe]]></s90>
-			<s91><![CDATA[REMISE DU COMPTEUR A ZERO]]></s91>
-			<s92><![CDATA[Activé]]></s92>
-			<s93><![CDATA[A]]></s93>
-			<s94><![CDATA[Inc]]></s94>
-			<s95><![CDATA[2]]></s95>
-			<s96><![CDATA[1]]></s96>
-			<s97><![CDATA[Voir les défauts en cours]]></s97>
-			<s98><![CDATA[Voir l'historique]]></s98>
-			<s101><![CDATA[P]]></s101>
-			<s102><![CDATA[Appuyer sur Réarmement]]></s102>
-			<s103><![CDATA[Démarrage...]]></s103>
-			<s104><![CDATA[Général]]></s104>
-			<s105><![CDATA[Bac]]></s105>
-			<s106><![CDATA[Chaine]]></s106>
-			<s108><![CDATA[Coulage N°1]]></s108>
-			<s109><![CDATA[Coulage N°2]]></s109>
-			<s110><![CDATA[Paramètres avancés]]></s110>
-			<s112><![CDATA[Paramètres]]></s112>
-			<s113><![CDATA[Tempo démarrage]]></s113>
-			<s114><![CDATA[°C critique min]]></s114>
-			<s115><![CDATA[°C critique max]]></s115>
-			<s116><![CDATA[°C critique max four]]></s116>
-			<s117><![CDATA[Air comprimé]]></s117>
-			<s118><![CDATA[Bouton marche générale]]></s118>
-			<s119><![CDATA[Bouton marche auto]]></s119>
-			<s120><![CDATA[Bouton vidange]]></s120>
-			<s121><![CDATA[Bouton nettoyage]]></s121>
-			<s122><![CDATA[Electrovanne bac]]></s122>
-			<s123><![CDATA[Electrovanne coulage N°2]]></s123>
-			<s124><![CDATA[Tempo démarrage pompe]]></s124>
-			<s126><![CDATA[Hz variateur coulage]]></s126>
-			<s127><![CDATA[°C min paraffine (pompe)]]></s127>
-			<s128><![CDATA[Delta régulation]]></s128>
-			<s129><![CDATA[Delta défaut]]></s129>
-			<s130><![CDATA[Variateur pompe]]></s130>
-			<s131><![CDATA[°C régulation]]></s131>
-			<s132><![CDATA[°C critique ]]></s132>
-			<s133><![CDATA[°C min paraffine ]]></s133>
-			<s134><![CDATA[Variateur chaine]]></s134>
-			<s135><![CDATA[Moteur chaine]]></s135>
-			<s136><![CDATA[Tempo présence verre]]></s136>
-			<s137><![CDATA[Injecteur]]></s137>
-			<s138><![CDATA[Bac non prêt]]></s138>
-			<s139><![CDATA[Résistances]]></s139>
-			<s140><![CDATA[Turbine]]></s140>
-			<s141><![CDATA[Electrovanne]]></s141>
-			<s142><![CDATA[Non prêt pour M. auto]]></s142>
-			<s143><![CDATA[Tempo avant pause]]></s143>
-			<s144><![CDATA[Consigne pause]]></s144>
-			<s145><![CDATA[Période régulation]]></s145>
-			<s146><![CDATA[Contacteur]]></s146>
-			<s147><![CDATA[°C min tête]]></s147>
-			<s148><![CDATA[Incrément référence]]></s148>
-			<s149><![CDATA[Incrément bas injection]]></s149>
-			<s150><![CDATA[Incrément haut max]]></s150>
-			<s151><![CDATA[Référence]]></s151>
-			<s152><![CDATA[Défaut moteur 1]]></s152>
-			<s153><![CDATA[Défaut moteur 2]]></s153>
-			<s154><![CDATA[Position max vérin]]></s154>
-			<s155><![CDATA[Actif]]></s155>
-			<s156><![CDATA[Inhibé]]></s156>
-			<s157><![CDATA[Hz ]]></s157>
-			<s158><![CDATA[Inactif]]></s158>
-			<s159><![CDATA[ms]]></s159>
-			<s160><![CDATA[Sécurité chauffage]]></s160>
-			<s161><![CDATA[Embrayage]]></s161>
-			<s162><![CDATA[Vérin]]></s162>
-			<s163><![CDATA[Tiroir]]></s163>
-			<s165><![CDATA[min]]></s165>
-			<s167><![CDATA[Simulation tête prête]]></s167>
-			<s168><![CDATA[Moteur]]></s168>
-			<s170><![CDATA[Valeur par défaut]]></s170>
-			<s171><![CDATA[Simulation four prêt]]></s171>
-			<s172><![CDATA[Simulation bac prêt]]></s172>
-			<s173><![CDATA[P. verre]]></s173>
-			<s174><![CDATA[P. plaque]]></s174>
-			<s175><![CDATA[Seuil refroidissement]]></s175>
-			<s176><![CDATA[Tête]]></s176>
-			<s177><![CDATA[Stop]]></s177>
-			<s178><![CDATA[Contrôler]]></s178>
+			<s ID="1"><![CDATA[Attente]]></s>
+			<s ID="2"><![CDATA[Sécurité contacteur]]></s>
+			<s ID="3"><![CDATA[MODE D'INJECTION]]></s>
+			<s ID="4"><![CDATA[Activation]]></s>
+			<s ID="5"><![CDATA[Nettoyage]]></s>
+			<s ID="6"><![CDATA[Volumétrique]]></s>
+			<s ID="7"><![CDATA[Niveau]]></s>
+			<s ID="8"><![CDATA[Cadence]]></s>
+			<s ID="9"><![CDATA[Coulage Niveau]]></s>
+			<s ID="10"><![CDATA[Vidange]]></s>
+			<s ID="12"><![CDATA[Valider]]></s>
+			<s ID="19"><![CDATA[Débulleuse]]></s>
+			<s ID="24"><![CDATA[Radian N°1]]></s>
+			<s ID="25"><![CDATA[Radian N°2]]></s>
+			<s ID="27"><![CDATA[Four]]></s>
+			<s ID="31"><![CDATA[Compteur]]></s>
+			<s ID="34"><![CDATA[OUI]]></s>
+			<s ID="36"><![CDATA[MAINTENANCE]]></s>
+			<s ID="38"><![CDATA[Vitesse moteur]]></s>
+			<s ID="39"><![CDATA[Aspiration]]></s>
+			<s ID="40"><![CDATA[Refoulement]]></s>
+			<s ID="42"><![CDATA[Destination]]></s>
+			<s ID="43"><![CDATA[Réel]]></s>
+			<s ID="45"><![CDATA[Défauts]]></s>
+			<s ID="48"><![CDATA[Correction]]></s>
+			<s ID="51"><![CDATA[Injecteur]]></s>
+			<s ID="52"><![CDATA[Maintenance]]></s>
+			<s ID="54"><![CDATA[Gr]]></s>
+			<s ID="55"><![CDATA[°C]]></s>
+			<s ID="60"><![CDATA[s]]></s>
+			<s ID="63"><![CDATA[Pcs]]></s>
+			<s ID="64"><![CDATA[Injecteur N°1]]></s>
+			<s ID="68"><![CDATA[%]]></s>
+			<s ID="71"><![CDATA[1er COULAGE]]></s>
+			<s ID="72"><![CDATA[2ème COULAGE]]></s>
+			<s ID="73"><![CDATA[Injecteur]]></s>
+			<s ID="75"><![CDATA[FOUR]]></s>
+			<s ID="76"><![CDATA[DEBULLEUSE]]></s>
+			<s ID="77"><![CDATA[RADIAN]]></s>
+			<s ID="78"><![CDATA[N°1]]></s>
+			<s ID="79"><![CDATA[N°2]]></s>
+			<s ID="80"><![CDATA[CHAINE]]></s>
+			<s ID="81"><![CDATA[BAC]]></s>
+			<s ID="82"><![CDATA[Chauffage]]></s>
+			<s ID="89"><![CDATA[P/H]]></s>
+			<s ID="90"><![CDATA[Pompe]]></s>
+			<s ID="91"><![CDATA[REMISE DU COMPTEUR A ZERO]]></s>
+			<s ID="92"><![CDATA[Activé]]></s>
+			<s ID="93"><![CDATA[A]]></s>
+			<s ID="94"><![CDATA[Inc]]></s>
+			<s ID="95"><![CDATA[2]]></s>
+			<s ID="96"><![CDATA[1]]></s>
+			<s ID="97"><![CDATA[Voir les défauts en cours]]></s>
+			<s ID="98"><![CDATA[Voir l'historique]]></s>
+			<s ID="101"><![CDATA[P]]></s>
+			<s ID="102"><![CDATA[Appuyer sur Réarmement]]></s>
+			<s ID="103"><![CDATA[Démarrage...]]></s>
+			<s ID="104"><![CDATA[Général]]></s>
+			<s ID="105"><![CDATA[Bac]]></s>
+			<s ID="106"><![CDATA[Chaine]]></s>
+			<s ID="108"><![CDATA[Coulage N°1]]></s>
+			<s ID="109"><![CDATA[Coulage N°2]]></s>
+			<s ID="110"><![CDATA[Paramètres avancés]]></s>
+			<s ID="112"><![CDATA[Paramètres]]></s>
+			<s ID="113"><![CDATA[Tempo démarrage]]></s>
+			<s ID="114"><![CDATA[°C critique min]]></s>
+			<s ID="115"><![CDATA[°C critique max]]></s>
+			<s ID="116"><![CDATA[°C critique max four]]></s>
+			<s ID="117"><![CDATA[Air comprimé]]></s>
+			<s ID="118"><![CDATA[Bouton marche générale]]></s>
+			<s ID="119"><![CDATA[Bouton marche auto]]></s>
+			<s ID="120"><![CDATA[Bouton vidange]]></s>
+			<s ID="121"><![CDATA[Bouton nettoyage]]></s>
+			<s ID="122"><![CDATA[Electrovanne bac]]></s>
+			<s ID="123"><![CDATA[Electrovanne coulage N°2]]></s>
+			<s ID="124"><![CDATA[Tempo démarrage pompe]]></s>
+			<s ID="126"><![CDATA[Hz variateur coulage]]></s>
+			<s ID="127"><![CDATA[°C min paraffine (pompe)]]></s>
+			<s ID="128"><![CDATA[Delta régulation]]></s>
+			<s ID="129"><![CDATA[Delta défaut]]></s>
+			<s ID="130"><![CDATA[Variateur pompe]]></s>
+			<s ID="131"><![CDATA[°C régulation]]></s>
+			<s ID="132"><![CDATA[°C critique ]]></s>
+			<s ID="133"><![CDATA[°C min paraffine ]]></s>
+			<s ID="134"><![CDATA[Variateur chaine]]></s>
+			<s ID="135"><![CDATA[Moteur chaine]]></s>
+			<s ID="136"><![CDATA[Tempo présence verre]]></s>
+			<s ID="137"><![CDATA[Injecteur]]></s>
+			<s ID="138"><![CDATA[Bac non prêt]]></s>
+			<s ID="139"><![CDATA[Résistances]]></s>
+			<s ID="140"><![CDATA[Turbine]]></s>
+			<s ID="141"><![CDATA[Electrovanne]]></s>
+			<s ID="142"><![CDATA[Non prêt pour M. auto]]></s>
+			<s ID="143"><![CDATA[Tempo avant pause]]></s>
+			<s ID="144"><![CDATA[Consigne pause]]></s>
+			<s ID="145"><![CDATA[Période régulation]]></s>
+			<s ID="146"><![CDATA[Contacteur]]></s>
+			<s ID="147"><![CDATA[°C min tête]]></s>
+			<s ID="148"><![CDATA[Incrément référence]]></s>
+			<s ID="149"><![CDATA[Incrément bas injection]]></s>
+			<s ID="150"><![CDATA[Incrément haut max]]></s>
+			<s ID="151"><![CDATA[Référence]]></s>
+			<s ID="152"><![CDATA[Défaut moteur 1]]></s>
+			<s ID="153"><![CDATA[Défaut moteur 2]]></s>
+			<s ID="154"><![CDATA[Position max vérin]]></s>
+			<s ID="155"><![CDATA[Actif]]></s>
+			<s ID="156"><![CDATA[Inhibé]]></s>
+			<s ID="157"><![CDATA[Hz ]]></s>
+			<s ID="158"><![CDATA[Inactif]]></s>
+			<s ID="159"><![CDATA[ms]]></s>
+			<s ID="160"><![CDATA[Sécurité chauffage]]></s>
+			<s ID="161"><![CDATA[Embrayage]]></s>
+			<s ID="162"><![CDATA[Vérin]]></s>
+			<s ID="163"><![CDATA[Tiroir]]></s>
+			<s ID="165"><![CDATA[min]]></s>
+			<s ID="167"><![CDATA[Simulation tête prête]]></s>
+			<s ID="168"><![CDATA[Moteur]]></s>
+			<s ID="170"><![CDATA[Valeur par défaut]]></s>
+			<s ID="171"><![CDATA[Simulation four prêt]]></s>
+			<s ID="172"><![CDATA[Simulation bac prêt]]></s>
+			<s ID="173"><![CDATA[P. verre]]></s>
+			<s ID="174"><![CDATA[P. plaque]]></s>
+			<s ID="175"><![CDATA[Seuil refroidissement]]></s>
+			<s ID="176"><![CDATA[Tête]]></s>
+			<s ID="177"><![CDATA[Stop]]></s>
+			<s ID="178"><![CDATA[Contrôler]]></s>
+			<s ID="0"><![CDATA[]]></s>
 		</standard>
-		<error>
-			<e0><![CDATA[]]></e0>
-			<e1><![CDATA[Défaut d'air comprimé]]></e1>
-			<e2><![CDATA[Arrêt d'urgence actif]]></e2>
-			<e3><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></e3>
-			<e4><![CDATA[Bouton Marche Automatique inactif dans ce mode]]></e4>
-			<e5><![CDATA[Bouton Marche Générale inactif dans ce mode]]></e5>
-			<e6><![CDATA[]]></e6>
-			<e7><![CDATA[]]></e7>
-			<e8><![CDATA[]]></e8>
-			<e9><![CDATA[Température critique tête]]></e9>
-			<e10><![CDATA[Défaut moteur tête (1)]]></e10>
-			<e11><![CDATA[Défaut moteur tête (2)]]></e11>
-			<e12><![CDATA[Défaut référence tête]]></e12>
-			<e13><![CDATA[Nettoyage indisponible dans ce mode]]></e13>
-			<e14><![CDATA[Vidange indisponible dans ce mode]]></e14>
-			<e15><![CDATA[Défaut température bac]]></e15>
-			<e16><![CDATA[Défaut température débulleuse]]></e16>
-			<e17><![CDATA[Défaut température four]]></e17>
-			<e18><![CDATA[Tête trop froide pour bouger]]></e18>
-			<e19><![CDATA[Bac trop froid pour démarrer la pompe]]></e19>
-			<e20><![CDATA[Défaut température tête]]></e20>
-			<e21><![CDATA[Défaut turbine four]]></e21>
-			<e22><![CDATA[Défaut variateur chaine]]></e22>
-			<e23><![CDATA[Défaut variateur pompe]]></e23>
-			<e25><![CDATA[Déplacement excessif de la tête]]></e25>
-			<e26><![CDATA[Four pas prêt pour la marche automatique]]></e26>
-			<e27><![CDATA[Tête pas prête pour la marche automatique]]></e27>
-			<e28><![CDATA[Défaut contacteur radian 1]]></e28>
-			<e29><![CDATA[Défaut contacteur radian 2]]></e29>
-		</error>
 		<help>
-			<h0><![CDATA[]]></h0>
+			<h ID="0"><![CDATA[]]></h>
 		</help>
+		<error>
+			<e ID="1"><![CDATA[Défaut d'air comprimé]]></e>
+			<e ID="2"><![CDATA[Arrêt d'urgence actif]]></e>
+			<e ID="3"><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></e>
+			<e ID="4"><![CDATA[Bouton Marche Automatique inactif dans ce mode]]></e>
+			<e ID="5"><![CDATA[Bouton Marche Générale inactif dans ce mode]]></e>
+			<e ID="6"><![CDATA[]]></e>
+			<e ID="7"><![CDATA[]]></e>
+			<e ID="8"><![CDATA[]]></e>
+			<e ID="9"><![CDATA[Température critique tête]]></e>
+			<e ID="10"><![CDATA[Défaut moteur tête (1)]]></e>
+			<e ID="11"><![CDATA[Défaut moteur tête (2)]]></e>
+			<e ID="12"><![CDATA[Défaut référence tête]]></e>
+			<e ID="13"><![CDATA[Nettoyage indisponible dans ce mode]]></e>
+			<e ID="14"><![CDATA[Vidange indisponible dans ce mode]]></e>
+			<e ID="15"><![CDATA[Défaut température bac]]></e>
+			<e ID="16"><![CDATA[Défaut température débulleuse]]></e>
+			<e ID="17"><![CDATA[Défaut température four]]></e>
+			<e ID="18"><![CDATA[Tête trop froide pour bouger]]></e>
+			<e ID="19"><![CDATA[Bac trop froid pour démarrer la pompe]]></e>
+			<e ID="20"><![CDATA[Défaut température tête]]></e>
+			<e ID="21"><![CDATA[Défaut turbine four]]></e>
+			<e ID="22"><![CDATA[Défaut variateur chaine]]></e>
+			<e ID="23"><![CDATA[Défaut variateur pompe]]></e>
+			<e ID="25"><![CDATA[Déplacement excessif de la tête]]></e>
+			<e ID="26"><![CDATA[Four pas prêt pour la marche automatique]]></e>
+			<e ID="27"><![CDATA[Tête pas prête pour la marche automatique]]></e>
+			<e ID="28"><![CDATA[Défaut contacteur radian 1]]></e>
+			<e ID="29"><![CDATA[Défaut contacteur radian 2]]></e>
+			<e ID="0"><![CDATA[]]></e>
+		</error>
+		<system>
+			<sys ID="0"><![CDATA[%1]]></sys>
+			<sys ID="1"><![CDATA[%1]]></sys>
+			<sys ID="2"><![CDATA[Can't find or read from file '%1']]></sys>
+			<sys ID="3"><![CDATA[Can't read from text number <%1!d!> from file '%2' !]]></sys>
+			<sys ID="4"><![CDATA[Project entry screen (%1) not found !]]></sys>
+			<sys ID="5"><![CDATA[No matching file found (%1) !]]></sys>
+			<sys ID="6"><![CDATA[No more memory available for function %1 !]]></sys>
+			<sys ID="7"><![CDATA[Some texts in textfile '%1' are missing !]]></sys>
+			<sys ID="8"><![CDATA[Accessing '%1' failed with error '%2' !]]></sys>
+			<sys ID="9"><![CDATA[The function < %1 > is not supported !]]></sys>
+			<sys ID="10"><![CDATA[Touch is dirty or defect!]]></sys>
+			<sys ID="11"><![CDATA[Can't create or write to file '%1' !]]></sys>
+			<sys ID="12"><![CDATA[Header information in file is invalid (%1) !]]></sys>
+			<sys ID="13"><![CDATA[Recipe with id < %1 > not found]]></sys>
+			<sys ID="14"><![CDATA[Can't save recipe with empty name !]]></sys>
+			<sys ID="15"><![CDATA[The recipe name '%1' already exist ! Choose another name.]]></sys>
+			<sys ID="16"><![CDATA[Execution of function %1 has failed (%2) !]]></sys>
+			<sys ID="17"><![CDATA[Error in script %1 !]]></sys>
+			<sys ID="18"><![CDATA[Can't read from file '%1' - structure mismatch!]]></sys>
+			<sys ID="19"><![CDATA[No user authorization for %1 !]]></sys>
+			<sys ID="20"><![CDATA[Communication disturbed: '%1' !]]></sys>
+			<sys ID="21"><![CDATA[Not enough Diskspace available (%1 kB)]]></sys>
+			<sys ID="22"><![CDATA[Protected or invalid path defined (%1) !]]></sys>
+			<sys ID="23"><![CDATA[Printer not ready !]]></sys>
+			<sys ID="24"><![CDATA[Printer busy !]]></sys>
+			<sys ID="25"><![CDATA[Incorrect Galileo license key (%1) - DEMO mode !]]></sys>
+			<sys ID="26"><![CDATA[No valid runtime license found - DEMO mode !]]></sys>
+			<sys ID="27"><![CDATA[Demo mode has expired! Runtime will shut down.]]></sys>
+			<sys ID="28"><![CDATA[Printer < %1 > not detected !]]></sys>
+			<sys ID="29"><![CDATA[%1 (%2)]]></sys>
+			<sys ID="30"><![CDATA[Authentication failed: Username and/or password wrong]]></sys>
+			<sys ID="31"><![CDATA[Username is empty]]></sys>
+			<sys ID="32"><![CDATA[Password is empty]]></sys>
+			<sys ID="33"><![CDATA[No group selected]]></sys>
+			<sys ID="34"><![CDATA[Your password has expired and must be changed]]></sys>
+			<sys ID="35"><![CDATA[Too many failed login attempts, the account is locked]]></sys>
+			<sys ID="36"><![CDATA[Cannot create user: Number of users has reached the maximum]]></sys>
+			<sys ID="37"><![CDATA[Group '%1' does not exist]]></sys>
+			<sys ID="38"><![CDATA[User '%1' does not exist]]></sys>
+			<sys ID="39"><![CDATA[User '%1' already exists]]></sys>
+			<sys ID="40"><![CDATA[New Password must differ from current one]]></sys>
+			<sys ID="41"><![CDATA[New Password already used in history]]></sys>
+			<sys ID="42"><![CDATA[Cannot confirm new password: not matching]]></sys>
+			<sys ID="43"><![CDATA[No active user present. Please login to perform action]]></sys>
+			<sys ID="44"><![CDATA[User '%1' is locked]]></sys>
+			<sys ID="45"><![CDATA[Password is too short. Type at least %1 characters]]></sys>
+			<sys ID="46"><![CDATA[Cannot lock active user]]></sys>
+			<sys ID="47"><![CDATA[Cannot delete active user]]></sys>
+			<sys ID="48"><![CDATA[No permission to create user in group '%1']]></sys>
+			<sys ID="49"><![CDATA[No permission to delete user '%1' in group '%2']]></sys>
+			<sys ID="50"><![CDATA[No permission to change password of user '%1']]></sys>
+			<sys ID="51"><![CDATA[No permission to change group of user '%1']]></sys>
+			<sys ID="52"><![CDATA[No permission to modify group '%1']]></sys>
+			<sys ID="53"><![CDATA[No permission to lock user '%1']]></sys>
+			<sys ID="54"><![CDATA[No permission to unlock user '%1']]></sys>
+			<sys ID="55"><![CDATA[No permission to create users on this device]]></sys>
+			<sys ID="56"><![CDATA[No permission to delete users on this device]]></sys>
+			<sys ID="57"><![CDATA[No permission to change passwords]]></sys>
+			<sys ID="58"><![CDATA[No permission to change group affiliations]]></sys>
+			<sys ID="59"><![CDATA[No permission to lock/unlock users]]></sys>
+			<sys ID="60"><![CDATA[Successfully created user '%1']]></sys>
+			<sys ID="61"><![CDATA[Successfully deleted user '%1']]></sys>
+			<sys ID="62"><![CDATA[Successfully locked user '%1']]></sys>
+			<sys ID="63"><![CDATA[Successfully unlocked user '%1']]></sys>
+			<sys ID="64"><![CDATA[Successfully changed password of user '%1']]></sys>
+			<sys ID="65"><![CDATA[Successfully changed group of user '%1']]></sys>
+			<sys ID="66"><![CDATA[GraphBlock is running. Please stop to perform file loading.]]></sys>
+		</system>
 	</texts>
-</languagedata>
+</languageData>
