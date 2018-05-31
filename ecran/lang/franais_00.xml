@@ -2,7 +2,6 @@
 <languageData Version="galileoNG">
 	<texts>
 		<standard Guid="aff31aa9-445c-4fb1-9ace-c36d73c08192" textID="1"><![CDATA[Attente]]></standard>
-		<standard Guid="eeac6e83-249b-4b0b-9912-f02a65c577c0" textID="2"><![CDATA[Sécurité contacteur]]></standard>
 		<standard Guid="66b52407-f333-4de7-8ba1-41058d82eb03" textID="3"><![CDATA[MODE D'INJECTION]]></standard>
 		<standard Guid="4ac5b9b4-356b-45e6-aa73-65f26c7fe482" textID="4"><![CDATA[Activation]]></standard>
 		<standard Guid="de01296d-9678-4790-996d-ac57225fa4c1" textID="5"><![CDATA[Nettoyage]]></standard>
@@ -56,8 +55,6 @@
 		<standard Guid="13394b9d-196b-444b-87a3-0688834dfa07" textID="97"><![CDATA[Voir les défauts en cours]]></standard>
 		<standard Guid="0e33b626-9aa7-41a6-93ea-f6011125c6b9" textID="98"><![CDATA[Voir l'historique]]></standard>
 		<standard Guid="2f43a058-d6f1-40e9-8840-17459bf25a22" textID="101"><![CDATA[P]]></standard>
-		<standard Guid="4bb20443-4a9e-4376-aa0a-8cf5586f0ddc" textID="102"><![CDATA[Appuyer sur Réarmement]]></standard>
-		<standard Guid="54a91a5a-1d5c-4f78-a9e8-39a8d0a223c5" textID="103"><![CDATA[Démarrage...]]></standard>
 		<standard Guid="c1860b92-dc5a-4aac-8983-f73757146199" textID="104"><![CDATA[Général]]></standard>
 		<standard Guid="c95ba318-ebbe-4524-9f59-672ebab46ba6" textID="105"><![CDATA[Bac]]></standard>
 		<standard Guid="7d649a35-4046-4e40-869a-d3eff499c248" textID="106"><![CDATA[Chaine]]></standard>
@@ -68,10 +65,7 @@
 		<standard Guid="cceabf3b-e1b4-4c36-acae-a261467fc1a4" textID="113"><![CDATA[Tempo démarrage]]></standard>
 		<standard Guid="a1493bd4-7cf0-4598-a94e-8830fc36a8a2" textID="114"><![CDATA[°C critique min]]></standard>
 		<standard Guid="f3f3f4a0-b719-4766-ae94-ab6d0da62dfd" textID="115"><![CDATA[°C critique max]]></standard>
-		<standard Guid="8e4e4b67-c601-4b6e-859a-c19256823eb0" textID="116"><![CDATA[°C critique max four]]></standard>
 		<standard Guid="d5a999d9-1ba8-445a-9041-78bfb5a0e137" textID="117"><![CDATA[Air comprimé]]></standard>
-		<standard Guid="2a9988d3-902c-449a-88e6-28cac7783605" textID="118"><![CDATA[Bouton marche générale]]></standard>
-		<standard Guid="857e0969-479e-4cac-a002-0bc44434c749" textID="119"><![CDATA[Bouton marche auto]]></standard>
 		<standard Guid="3bd679cf-4bd8-49f2-b06d-d6ddb7e7e19d" textID="120"><![CDATA[Bouton vidange]]></standard>
 		<standard Guid="0234789a-3f1a-49a6-9141-892d7fb221de" textID="121"><![CDATA[Bouton nettoyage]]></standard>
 		<standard Guid="c99637bd-c8af-402d-8a61-704083b305a4" textID="122"><![CDATA[Electrovanne bac]]></standard>
@@ -97,7 +91,6 @@
 		<standard Guid="5f659494-c6e6-47ec-945a-df61a9e65ab3" textID="143"><![CDATA[Tempo avant pause]]></standard>
 		<standard Guid="ad16f66c-9641-4210-95b7-051d3d9281eb" textID="144"><![CDATA[Consigne pause]]></standard>
 		<standard Guid="bf6dc17f-362a-40b6-9dca-8d6c0cfab805" textID="145"><![CDATA[Période régulation]]></standard>
-		<standard Guid="cede7013-8588-4271-bc58-65180bc8cd5b" textID="146"><![CDATA[Contacteur]]></standard>
 		<standard Guid="420ff083-3268-4c3c-9611-d3210a8a47f4" textID="147"><![CDATA[°C min tête]]></standard>
 		<standard Guid="d0e23e4b-9863-4ca9-b3be-e0740358517c" textID="148"><![CDATA[Incrément référence]]></standard>
 		<standard Guid="dfa3e788-02df-4341-88ce-4392eaa28131" textID="149"><![CDATA[Incrément bas injection]]></standard>
@@ -117,7 +110,6 @@
 		<standard Guid="c23bba85-915c-4a70-89db-8329743f81f6" textID="163"><![CDATA[Tiroir]]></standard>
 		<standard Guid="a67f4ca7-5e73-4a23-b365-46871ebd13d8" textID="165"><![CDATA[min]]></standard>
 		<standard Guid="2a0357fe-62fd-49de-a089-a929acba660f" textID="167"><![CDATA[Simulation tête prête]]></standard>
-		<standard Guid="f75535d0-df6c-4048-901b-e1dfb59144cc" textID="168"><![CDATA[Moteur]]></standard>
 		<standard Guid="8a82e251-a7e7-4b75-81e7-4486483a79ac" textID="170"><![CDATA[Valeur par défaut]]></standard>
 		<standard Guid="9423738a-f8b4-49ff-ae63-872bbc64ed32" textID="171"><![CDATA[Simulation four prêt]]></standard>
 		<standard Guid="4a939ebb-272a-4d59-b222-cf281595b689" textID="172"><![CDATA[Simulation bac prêt]]></standard>
@@ -127,15 +119,46 @@
 		<standard Guid="e0d7445b-2348-4d0a-b250-6f82df0b25ad" textID="176"><![CDATA[Tête]]></standard>
 		<standard Guid="d9ee0ccd-3b68-45be-bb1f-7e6c5359862f" textID="177"><![CDATA[Stop]]></standard>
 		<standard Guid="0c174c5d-1406-4821-b38e-903f14de6daf" textID="178"><![CDATA[Contrôler]]></standard>
-		<standard Guid="f15933a6-4671-4574-8ef3-39424038eb13" textID="0"><![CDATA[]]></standard>
+		<standard Guid="7ed5ef5e-fca8-4d67-9820-c2736fba0bdc" textID="179"><![CDATA[Bas continu]]></standard>
+		<standard Guid="969fcfbd-79a4-4617-8030-efb4e8537ced" textID="180"><![CDATA[Bas pas-à-pas]]></standard>
+		<standard Guid="d30e830c-d6cb-4b3d-b5e1-150f0af7252a" textID="181"><![CDATA[Haut pas-à-pas]]></standard>
+		<standard Guid="246f0ac0-d5bd-414e-9229-b554f111b50e" textID="182"><![CDATA[Haut continu]]></standard>
+		<standard Guid="832c67e4-f9ae-4af3-beee-b37de8a0df41" textID="183"><![CDATA[Jog]]></standard>
+		<standard Guid="affb9d3f-c768-4cb0-86e6-f2a82b17e57c" textID="184"><![CDATA[Références]]></standard>
+		<standard Guid="a05fd2fa-dc5d-4d36-b97e-49e69cb8740e" textID="185"><![CDATA[Switch bas]]></standard>
+		<standard Guid="7dd73ea6-86c3-4f3d-9c25-ed6b537a17e8" textID="186"><![CDATA[Blocage bas]]></standard>
+		<standard Guid="5c4c4d4f-fb03-4bec-b426-35ef98907320" textID="187"><![CDATA[Blocage haut]]></standard>
+		<standard Guid="aa0e462e-0697-4e28-a724-1a4438d84716" textID="188"><![CDATA[Switch haut]]></standard>
+		<standard Guid="f56ec15b-7ca9-42c6-8722-8dea9cd65ef2" textID="189"><![CDATA[Réarmement]]></standard>
+		<standard Guid="30bac951-993f-4ad7-9d5d-9b323597d4e4" textID="190"><![CDATA[Retour]]></standard>
+		<standard Guid="851ef9f5-3c4d-4bb6-b5f1-38f18d795e52" textID="191"><![CDATA[Fin de course]]></standard>
+		<standard Guid="aeb54942-fa06-4bb6-ba1c-16b62d1a31a5" textID="192"><![CDATA[Reference OK]]></standard>
+		<standard Guid="56b696e1-81fb-436e-9ac7-a44350f45cee" textID="193"><![CDATA[Erreur mode]]></standard>
+		<standard Guid="210ee384-a561-4b40-af9a-2997a1d7f01a" textID="194"><![CDATA[Erreur moteur]]></standard>
+		<standard Guid="8530cda7-5733-40ff-b248-a6bb5e879348" textID="195"><![CDATA[Lent]]></standard>
+		<standard Guid="285f3fd7-f342-4432-bfba-5b779d3ad326" textID="196"><![CDATA[Rapide]]></standard>
+		<standard Guid="8a4682cc-8852-4f9c-97e6-e7699d8109e4" textID="197"><![CDATA[Etat]]></standard>
+		<standard Guid="4ace0c4c-c86b-4465-8c9b-dc5a1ed193e8" textID="198"><![CDATA[Quick stop]]></standard>
+		<standard Guid="660ac2cb-1590-4298-a59a-67be0455c2d2" textID="199"><![CDATA[SDO]]></standard>
+		<standard Guid="33e0b651-4859-4aaa-9303-1c7d08eb39f2" textID="200"><![CDATA[Absolu]]></standard>
+		<standard Guid="d4385454-0fbf-4f85-aa0f-8734eaf17610" textID="201"><![CDATA[Incrémentation]]></standard>
+		<standard Guid="4358519b-416c-4e01-a2d4-cdfc693caac6" textID="202"><![CDATA[Dest.]]></standard>
+		<standard Guid="3deec358-c47c-416d-8757-e61c0dd27f2c" textID="203"><![CDATA[Déplacer]]></standard>
+		<standard Guid="d8d86bac-cd14-4460-a5ae-97d92ca00ab2" textID="204"><![CDATA[Vitesse]]></standard>
+		<standard Guid="daff1098-066a-4338-8d60-14d2be6eab22" textID="205"><![CDATA[Drive]]></standard>
+		<standard Guid="c280f70d-3a3a-4b66-a83c-8c4684e9bd19" textID="206"><![CDATA[Node]]></standard>
+		<standard Guid="973505d2-bd94-476f-a756-f4647023a1e0" textID="207"><![CDATA[Objet CAN]]></standard>
+		<standard Guid="26fddf8e-2b28-4056-978c-af28729fafb9" textID="208"><![CDATA[Subindex]]></standard>
+		<standard Guid="27d1c54c-036b-4c63-88a4-ffe6c32f05a7" textID="209"><![CDATA[Index]]></standard>
+		<standard Guid="fc0bc67c-5ea0-458e-9191-c039768748b5" textID="210"><![CDATA[Data]]></standard>
+		<standard Guid="d56e966f-6843-4bcf-a5b8-6fd4e39f6027" textID="211"><![CDATA[Lire]]></standard>
+		<standard Guid="829d353e-8d60-420b-8904-2bd83bc4f311" textID="212"><![CDATA[Longueur]]></standard>
+		<standard Guid="47e1aec8-7bb3-4549-9318-0dbbcbeca0b9" textID="213"><![CDATA[Message lu]]></standard>
+		<standard Guid="60348eb2-5c9d-467f-a7be-490094c51a47" textID="214"><![CDATA[Ecrire]]></standard>
+		<standard Guid="b4f2eda4-83b4-42c6-8e50-98fe628644cb" textID="215"><![CDATA[Message écrit]]></standard>
 		<error Guid="2d602dc3-7367-4310-8d78-9ca03c301001" textID="1"><![CDATA[Défaut d'air comprimé]]></error>
 		<error Guid="9847df67-a06c-447d-9f20-99ec078dc245" textID="2"><![CDATA[Arrêt d'urgence actif]]></error>
 		<error Guid="d42d4234-e8e5-4256-97a8-dc05b0a682a3" textID="3"><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></error>
-		<error Guid="e3805e14-645b-4da4-9a68-ecc0bdc80e3a" textID="4"><![CDATA[Bouton Marche Automatique inactif dans ce mode]]></error>
-		<error Guid="55c7e7df-cdf5-4918-bc58-18cbaefdb169" textID="5"><![CDATA[Bouton Marche Générale inactif dans ce mode]]></error>
-		<error Guid="9b5de99b-826e-4b04-ba8f-90e1c1e41eef" textID="6"><![CDATA[]]></error>
-		<error Guid="58973d0f-0c2c-490a-bc6b-3a640ea1ec21" textID="7"><![CDATA[]]></error>
-		<error Guid="c32edd61-db55-48c2-8d44-521b4a5e3327" textID="8"><![CDATA[]]></error>
 		<error Guid="c0fd479a-dc1b-44fb-b0bb-2bd327818f64" textID="9"><![CDATA[Température critique tête]]></error>
 		<error Guid="9e445e3d-e41e-49a5-939d-47d9b1c27eb6" textID="10"><![CDATA[Défaut moteur tête (1)]]></error>
 		<error Guid="16ccc00b-20a0-496c-b9ff-3266a3f69b37" textID="11"><![CDATA[Défaut moteur tête (2)]]></error>
@@ -154,9 +177,5 @@
 		<error Guid="37566163-4e17-4805-81d9-0b11614d4fc8" textID="25"><![CDATA[Déplacement excessif de la tête]]></error>
 		<error Guid="c98c0e4c-5855-4e1c-b559-62386cea0ab5" textID="26"><![CDATA[Four pas prêt pour la marche automatique]]></error>
 		<error Guid="fb192fe4-d93c-40d9-9e30-ed6a53b85003" textID="27"><![CDATA[Tête pas prête pour la marche automatique]]></error>
-		<error Guid="abc3bf26-0e04-47ee-b254-7886ecfc0b8e" textID="28"><![CDATA[Défaut contacteur radian 1]]></error>
-		<error Guid="1b1d87e7-c438-4655-8ccd-9093fef797a4" textID="29"><![CDATA[Défaut contacteur radian 2]]></error>
-		<error Guid="c2a809a4-75d2-46e7-ba9b-3ac61b443194" textID="0"><![CDATA[]]></error>
-		<help Guid="606eeb6c-c961-4de4-a908-c5e0e73c4ba5" textID="0"><![CDATA[]]></help>
 	</texts>
 </languageData>

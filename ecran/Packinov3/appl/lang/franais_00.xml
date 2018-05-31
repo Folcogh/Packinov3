@@ -11,7 +11,6 @@
 	<texts>
 		<standard>
 			<s ID="1"><![CDATA[Attente]]></s>
-			<s ID="2"><![CDATA[Sécurité contacteur]]></s>
 			<s ID="3"><![CDATA[MODE D'INJECTION]]></s>
 			<s ID="4"><![CDATA[Activation]]></s>
 			<s ID="5"><![CDATA[Nettoyage]]></s>
@@ -65,8 +64,6 @@
 			<s ID="97"><![CDATA[Voir les défauts en cours]]></s>
 			<s ID="98"><![CDATA[Voir l'historique]]></s>
 			<s ID="101"><![CDATA[P]]></s>
-			<s ID="102"><![CDATA[Appuyer sur Réarmement]]></s>
-			<s ID="103"><![CDATA[Démarrage...]]></s>
 			<s ID="104"><![CDATA[Général]]></s>
 			<s ID="105"><![CDATA[Bac]]></s>
 			<s ID="106"><![CDATA[Chaine]]></s>
@@ -77,10 +74,7 @@
 			<s ID="113"><![CDATA[Tempo démarrage]]></s>
 			<s ID="114"><![CDATA[°C critique min]]></s>
 			<s ID="115"><![CDATA[°C critique max]]></s>
-			<s ID="116"><![CDATA[°C critique max four]]></s>
 			<s ID="117"><![CDATA[Air comprimé]]></s>
-			<s ID="118"><![CDATA[Bouton marche générale]]></s>
-			<s ID="119"><![CDATA[Bouton marche auto]]></s>
 			<s ID="120"><![CDATA[Bouton vidange]]></s>
 			<s ID="121"><![CDATA[Bouton nettoyage]]></s>
 			<s ID="122"><![CDATA[Electrovanne bac]]></s>
@@ -106,7 +100,6 @@
 			<s ID="143"><![CDATA[Tempo avant pause]]></s>
 			<s ID="144"><![CDATA[Consigne pause]]></s>
 			<s ID="145"><![CDATA[Période régulation]]></s>
-			<s ID="146"><![CDATA[Contacteur]]></s>
 			<s ID="147"><![CDATA[°C min tête]]></s>
 			<s ID="148"><![CDATA[Incrément référence]]></s>
 			<s ID="149"><![CDATA[Incrément bas injection]]></s>
@@ -126,7 +119,6 @@
 			<s ID="163"><![CDATA[Tiroir]]></s>
 			<s ID="165"><![CDATA[min]]></s>
 			<s ID="167"><![CDATA[Simulation tête prête]]></s>
-			<s ID="168"><![CDATA[Moteur]]></s>
 			<s ID="170"><![CDATA[Valeur par défaut]]></s>
 			<s ID="171"><![CDATA[Simulation four prêt]]></s>
 			<s ID="172"><![CDATA[Simulation bac prêt]]></s>
@@ -136,20 +128,49 @@
 			<s ID="176"><![CDATA[Tête]]></s>
 			<s ID="177"><![CDATA[Stop]]></s>
 			<s ID="178"><![CDATA[Contrôler]]></s>
-			<s ID="0"><![CDATA[]]></s>
+			<s ID="179"><![CDATA[Bas continu]]></s>
+			<s ID="180"><![CDATA[Bas pas-à-pas]]></s>
+			<s ID="181"><![CDATA[Haut pas-à-pas]]></s>
+			<s ID="182"><![CDATA[Haut continu]]></s>
+			<s ID="183"><![CDATA[Jog]]></s>
+			<s ID="184"><![CDATA[Références]]></s>
+			<s ID="185"><![CDATA[Switch bas]]></s>
+			<s ID="186"><![CDATA[Blocage bas]]></s>
+			<s ID="187"><![CDATA[Blocage haut]]></s>
+			<s ID="188"><![CDATA[Switch haut]]></s>
+			<s ID="189"><![CDATA[Réarmement]]></s>
+			<s ID="190"><![CDATA[Retour]]></s>
+			<s ID="191"><![CDATA[Fin de course]]></s>
+			<s ID="192"><![CDATA[Reference OK]]></s>
+			<s ID="193"><![CDATA[Erreur mode]]></s>
+			<s ID="194"><![CDATA[Erreur moteur]]></s>
+			<s ID="195"><![CDATA[Lent]]></s>
+			<s ID="196"><![CDATA[Rapide]]></s>
+			<s ID="197"><![CDATA[Etat]]></s>
+			<s ID="198"><![CDATA[Quick stop]]></s>
+			<s ID="199"><![CDATA[SDO]]></s>
+			<s ID="200"><![CDATA[Absolu]]></s>
+			<s ID="201"><![CDATA[Incrémentation]]></s>
+			<s ID="202"><![CDATA[Dest.]]></s>
+			<s ID="203"><![CDATA[Déplacer]]></s>
+			<s ID="204"><![CDATA[Vitesse]]></s>
+			<s ID="205"><![CDATA[Drive]]></s>
+			<s ID="206"><![CDATA[Node]]></s>
+			<s ID="207"><![CDATA[Objet CAN]]></s>
+			<s ID="208"><![CDATA[Subindex]]></s>
+			<s ID="209"><![CDATA[Index]]></s>
+			<s ID="210"><![CDATA[Data]]></s>
+			<s ID="211"><![CDATA[Lire]]></s>
+			<s ID="212"><![CDATA[Longueur]]></s>
+			<s ID="213"><![CDATA[Message lu]]></s>
+			<s ID="214"><![CDATA[Ecrire]]></s>
+			<s ID="215"><![CDATA[Message écrit]]></s>
 		</standard>
-		<help>
-			<h ID="0"><![CDATA[]]></h>
-		</help>
+		<help />
 		<error>
 			<e ID="1"><![CDATA[Défaut d'air comprimé]]></e>
 			<e ID="2"><![CDATA[Arrêt d'urgence actif]]></e>
 			<e ID="3"><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></e>
-			<e ID="4"><![CDATA[Bouton Marche Automatique inactif dans ce mode]]></e>
-			<e ID="5"><![CDATA[Bouton Marche Générale inactif dans ce mode]]></e>
-			<e ID="6"><![CDATA[]]></e>
-			<e ID="7"><![CDATA[]]></e>
-			<e ID="8"><![CDATA[]]></e>
 			<e ID="9"><![CDATA[Température critique tête]]></e>
 			<e ID="10"><![CDATA[Défaut moteur tête (1)]]></e>
 			<e ID="11"><![CDATA[Défaut moteur tête (2)]]></e>
@@ -168,9 +189,6 @@
 			<e ID="25"><![CDATA[Déplacement excessif de la tête]]></e>
 			<e ID="26"><![CDATA[Four pas prêt pour la marche automatique]]></e>
 			<e ID="27"><![CDATA[Tête pas prête pour la marche automatique]]></e>
-			<e ID="28"><![CDATA[Défaut contacteur radian 1]]></e>
-			<e ID="29"><![CDATA[Défaut contacteur radian 2]]></e>
-			<e ID="0"><![CDATA[]]></e>
 		</error>
 		<system>
 			<sys ID="0"><![CDATA[%1]]></sys>

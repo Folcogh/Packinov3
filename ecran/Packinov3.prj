@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <ProjectData Guid="a92ed1ee-8225-487a-a62b-8b2be4a3793e" Version="[2.1]" GalileoVersion="Galileo (10.2.7.23163)">
-  <Checksum Value="2661623368" />
+  <Checksum Value="502050713" />
   <LanguageManager Guid="ed1a7852-a9b3-410b-982c-817386c0d5af" NextFreeGlobalID="2">
     <Language Guid="2172af65-73a6-4d38-8ce7-5ffd3fe9b8f6" LanguageName="franais" Id="0" Enabled="1" Default="1" SysKeyboard="de_CH" SysMsgLanguage="40f13c75-af39-4d47-a22a-90aea9ef2321" PrintFont="[0,10,0]">
       <FontElement Guid="7a3785c5-7ce6-4796-94ff-f2c26348e3ec" FontName="Arial" Factor="100" />
@@ -14,7 +14,6 @@
   </LanguageManager>
   <TextManager Guid="28483db0-8709-4e52-8c16-0b7b7ba37d71">
     <StandardText Guid="aff31aa9-445c-4fb1-9ace-c36d73c08192" TextId="1" />
-    <StandardText Guid="eeac6e83-249b-4b0b-9912-f02a65c577c0" TextId="2" />
     <StandardText Guid="66b52407-f333-4de7-8ba1-41058d82eb03" TextId="3" />
     <StandardText Guid="4ac5b9b4-356b-45e6-aa73-65f26c7fe482" TextId="4" />
     <StandardText Guid="de01296d-9678-4790-996d-ac57225fa4c1" TextId="5" />
@@ -68,8 +67,6 @@
     <StandardText Guid="13394b9d-196b-444b-87a3-0688834dfa07" TextId="97" />
     <StandardText Guid="0e33b626-9aa7-41a6-93ea-f6011125c6b9" TextId="98" />
     <StandardText Guid="2f43a058-d6f1-40e9-8840-17459bf25a22" TextId="101" />
-    <StandardText Guid="4bb20443-4a9e-4376-aa0a-8cf5586f0ddc" TextId="102" />
-    <StandardText Guid="54a91a5a-1d5c-4f78-a9e8-39a8d0a223c5" TextId="103" />
     <StandardText Guid="c1860b92-dc5a-4aac-8983-f73757146199" TextId="104" />
     <StandardText Guid="c95ba318-ebbe-4524-9f59-672ebab46ba6" TextId="105" />
     <StandardText Guid="7d649a35-4046-4e40-869a-d3eff499c248" TextId="106" />
@@ -80,10 +77,7 @@
     <StandardText Guid="cceabf3b-e1b4-4c36-acae-a261467fc1a4" TextId="113" />
     <StandardText Guid="a1493bd4-7cf0-4598-a94e-8830fc36a8a2" TextId="114" />
     <StandardText Guid="f3f3f4a0-b719-4766-ae94-ab6d0da62dfd" TextId="115" />
-    <StandardText Guid="8e4e4b67-c601-4b6e-859a-c19256823eb0" TextId="116" />
     <StandardText Guid="d5a999d9-1ba8-445a-9041-78bfb5a0e137" TextId="117" />
-    <StandardText Guid="2a9988d3-902c-449a-88e6-28cac7783605" TextId="118" />
-    <StandardText Guid="857e0969-479e-4cac-a002-0bc44434c749" TextId="119" />
     <StandardText Guid="3bd679cf-4bd8-49f2-b06d-d6ddb7e7e19d" TextId="120" />
     <StandardText Guid="0234789a-3f1a-49a6-9141-892d7fb221de" TextId="121" />
     <StandardText Guid="c99637bd-c8af-402d-8a61-704083b305a4" TextId="122" />
@@ -109,7 +103,6 @@
     <StandardText Guid="5f659494-c6e6-47ec-945a-df61a9e65ab3" TextId="143" />
     <StandardText Guid="ad16f66c-9641-4210-95b7-051d3d9281eb" TextId="144" />
     <StandardText Guid="bf6dc17f-362a-40b6-9dca-8d6c0cfab805" TextId="145" />
-    <StandardText Guid="cede7013-8588-4271-bc58-65180bc8cd5b" TextId="146" />
     <StandardText Guid="420ff083-3268-4c3c-9611-d3210a8a47f4" TextId="147" />
     <StandardText Guid="d0e23e4b-9863-4ca9-b3be-e0740358517c" TextId="148" />
     <StandardText Guid="dfa3e788-02df-4341-88ce-4392eaa28131" TextId="149" />
@@ -129,7 +122,6 @@
     <StandardText Guid="c23bba85-915c-4a70-89db-8329743f81f6" TextId="163" />
     <StandardText Guid="a67f4ca7-5e73-4a23-b365-46871ebd13d8" TextId="165" />
     <StandardText Guid="2a0357fe-62fd-49de-a089-a929acba660f" TextId="167" />
-    <StandardText Guid="f75535d0-df6c-4048-901b-e1dfb59144cc" TextId="168" />
     <StandardText Guid="8a82e251-a7e7-4b75-81e7-4486483a79ac" TextId="170" />
     <StandardText Guid="9423738a-f8b4-49ff-ae63-872bbc64ed32" TextId="171" />
     <StandardText Guid="4a939ebb-272a-4d59-b222-cf281595b689" TextId="172" />
@@ -139,16 +131,46 @@
     <StandardText Guid="e0d7445b-2348-4d0a-b250-6f82df0b25ad" TextId="176" />
     <StandardText Guid="d9ee0ccd-3b68-45be-bb1f-7e6c5359862f" TextId="177" />
     <StandardText Guid="0c174c5d-1406-4821-b38e-903f14de6daf" TextId="178" />
-    <StandardText Guid="f15933a6-4671-4574-8ef3-39424038eb13" TextId="0" />
-    <HelpText Guid="606eeb6c-c961-4de4-a908-c5e0e73c4ba5" TextId="0" />
+    <StandardText Guid="7ed5ef5e-fca8-4d67-9820-c2736fba0bdc" TextId="179" />
+    <StandardText Guid="969fcfbd-79a4-4617-8030-efb4e8537ced" TextId="180" />
+    <StandardText Guid="d30e830c-d6cb-4b3d-b5e1-150f0af7252a" TextId="181" />
+    <StandardText Guid="246f0ac0-d5bd-414e-9229-b554f111b50e" TextId="182" />
+    <StandardText Guid="832c67e4-f9ae-4af3-beee-b37de8a0df41" TextId="183" />
+    <StandardText Guid="affb9d3f-c768-4cb0-86e6-f2a82b17e57c" TextId="184" />
+    <StandardText Guid="a05fd2fa-dc5d-4d36-b97e-49e69cb8740e" TextId="185" />
+    <StandardText Guid="7dd73ea6-86c3-4f3d-9c25-ed6b537a17e8" TextId="186" />
+    <StandardText Guid="5c4c4d4f-fb03-4bec-b426-35ef98907320" TextId="187" />
+    <StandardText Guid="aa0e462e-0697-4e28-a724-1a4438d84716" TextId="188" />
+    <StandardText Guid="f56ec15b-7ca9-42c6-8722-8dea9cd65ef2" TextId="189" />
+    <StandardText Guid="30bac951-993f-4ad7-9d5d-9b323597d4e4" TextId="190" />
+    <StandardText Guid="851ef9f5-3c4d-4bb6-b5f1-38f18d795e52" TextId="191" />
+    <StandardText Guid="aeb54942-fa06-4bb6-ba1c-16b62d1a31a5" TextId="192" />
+    <StandardText Guid="56b696e1-81fb-436e-9ac7-a44350f45cee" TextId="193" />
+    <StandardText Guid="210ee384-a561-4b40-af9a-2997a1d7f01a" TextId="194" />
+    <StandardText Guid="8530cda7-5733-40ff-b248-a6bb5e879348" TextId="195" />
+    <StandardText Guid="285f3fd7-f342-4432-bfba-5b779d3ad326" TextId="196" />
+    <StandardText Guid="8a4682cc-8852-4f9c-97e6-e7699d8109e4" TextId="197" />
+    <StandardText Guid="4ace0c4c-c86b-4465-8c9b-dc5a1ed193e8" TextId="198" />
+    <StandardText Guid="660ac2cb-1590-4298-a59a-67be0455c2d2" TextId="199" />
+    <StandardText Guid="33e0b651-4859-4aaa-9303-1c7d08eb39f2" TextId="200" />
+    <StandardText Guid="d4385454-0fbf-4f85-aa0f-8734eaf17610" TextId="201" />
+    <StandardText Guid="4358519b-416c-4e01-a2d4-cdfc693caac6" TextId="202" />
+    <StandardText Guid="3deec358-c47c-416d-8757-e61c0dd27f2c" TextId="203" />
+    <StandardText Guid="d8d86bac-cd14-4460-a5ae-97d92ca00ab2" TextId="204" />
+    <StandardText Guid="daff1098-066a-4338-8d60-14d2be6eab22" TextId="205" />
+    <StandardText Guid="c280f70d-3a3a-4b66-a83c-8c4684e9bd19" TextId="206" />
+    <StandardText Guid="973505d2-bd94-476f-a756-f4647023a1e0" TextId="207" />
+    <StandardText Guid="26fddf8e-2b28-4056-978c-af28729fafb9" TextId="208" />
+    <StandardText Guid="27d1c54c-036b-4c63-88a4-ffe6c32f05a7" TextId="209" />
+    <StandardText Guid="fc0bc67c-5ea0-458e-9191-c039768748b5" TextId="210" />
+    <StandardText Guid="d56e966f-6843-4bcf-a5b8-6fd4e39f6027" TextId="211" />
+    <StandardText Guid="829d353e-8d60-420b-8904-2bd83bc4f311" TextId="212" />
+    <StandardText Guid="47e1aec8-7bb3-4549-9318-0dbbcbeca0b9" TextId="213" />
+    <StandardText Guid="60348eb2-5c9d-467f-a7be-490094c51a47" TextId="214" />
+    <StandardText Guid="b4f2eda4-83b4-42c6-8e50-98fe628644cb" TextId="215" />
     <ErrorText Guid="2d602dc3-7367-4310-8d78-9ca03c301001" TextId="1" />
     <ErrorText Guid="9847df67-a06c-447d-9f20-99ec078dc245" TextId="2" />
     <ErrorText Guid="d42d4234-e8e5-4256-97a8-dc05b0a682a3" TextId="3" />
-    <ErrorText Guid="e3805e14-645b-4da4-9a68-ecc0bdc80e3a" TextId="4" />
-    <ErrorText Guid="55c7e7df-cdf5-4918-bc58-18cbaefdb169" TextId="5" />
-    <ErrorText Guid="9b5de99b-826e-4b04-ba8f-90e1c1e41eef" TextId="6" />
-    <ErrorText Guid="58973d0f-0c2c-490a-bc6b-3a640ea1ec21" TextId="7" />
-    <ErrorText Guid="c32edd61-db55-48c2-8d44-521b4a5e3327" TextId="8" />
     <ErrorText Guid="c0fd479a-dc1b-44fb-b0bb-2bd327818f64" TextId="9" />
     <ErrorText Guid="9e445e3d-e41e-49a5-939d-47d9b1c27eb6" TextId="10" />
     <ErrorText Guid="16ccc00b-20a0-496c-b9ff-3266a3f69b37" TextId="11" />
@@ -167,9 +189,6 @@
     <ErrorText Guid="37566163-4e17-4805-81d9-0b11614d4fc8" TextId="25" />
     <ErrorText Guid="c98c0e4c-5855-4e1c-b559-62386cea0ab5" TextId="26" />
     <ErrorText Guid="fb192fe4-d93c-40d9-9e30-ed6a53b85003" TextId="27" />
-    <ErrorText Guid="abc3bf26-0e04-47ee-b254-7886ecfc0b8e" TextId="28" />
-    <ErrorText Guid="1b1d87e7-c438-4655-8ccd-9093fef797a4" TextId="29" />
-    <ErrorText Guid="c2a809a4-75d2-46e7-ba9b-3ac61b443194" TextId="0" />
   </TextManager>
   <ScreenRootFolder Guid="3e25eba7-9b78-49e6-8ed8-47d178d1e8f8" Type="1">
     <Screens>
@@ -195,11 +214,13 @@
       <ScreenRef Guid="f8a84785-d38d-41f0-89cf-59a5be3b5de1" Name="maintDebulleuse" />
       <ScreenRef Guid="8b267667-a96b-467f-8659-0e3089166235" Name="maintFour" />
       <ScreenRef Guid="25d30554-8930-4698-9d95-6cf3548894ce" Name="maintGeneral" />
-      <ScreenRef Guid="9f13e5e3-813f-4dbe-935f-f341ec890cb8" Name="maintInjecteur1" />
       <ScreenRef Guid="3740635e-c441-4254-8fcd-2487417f93f7" Name="maintInjecteur2" />
       <ScreenRef Guid="6152d5ec-41a7-4a92-828a-f15f9ab981b9" Name="maintRadian1" />
       <ScreenRef Guid="1acd5de6-4b29-4736-a1d5-aeb194457e3b" Name="maintRadian2" />
-      <ScreenRef Guid="ee3a60b6-4d59-40b9-9b41-5080bd51d074" Name="maintTete" />
+      <ScreenRef Guid="aec38125-cc8b-42d3-9c30-1cce69ae1149" Name="MoteurILE1F" />
+      <ScreenRef Guid="12f7d186-4ac7-4747-8454-48e6d98c26ec" Name="MoteurILE1F_absolu" />
+      <ScreenRef Guid="630eae0c-e911-4620-9494-4eeccefa2745" Name="MoteurILE1F_SDO" />
+      <ScreenRef Guid="756baf9e-cf7e-4741-a583-b008950e5bc2" Name="maintInjecteur1" />
     </Screens>
   </ScreenFolder>
   <ScreenRootFolder Guid="d3aa4d9e-3721-4fc1-b3f6-029d563f90da" Type="3">
