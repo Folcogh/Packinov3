@@ -1,0 +1,6 @@
+// Ce script est appelé quand on appuie sur le bouton "Valider" dans l'écran de choix du mode de coulage
+
+// La sélection du mode de coulage est faite
+CoulageVolumetrique.ModeCoulageDefini :=  TRUE;
+// On passe au masque du premier coulage
+Screen.ScreenChange(injecteur_1);

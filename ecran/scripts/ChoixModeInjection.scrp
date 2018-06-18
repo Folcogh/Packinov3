@@ -1,0 +1,9 @@
+// Ce script est appelé quand on appuie sur le premier injecteur dans l'écran principal
+
+// Si le mode de coulage n'est pas défini, on affiche le masque de sélection de mode
+// Sinon, on affiche le masque du premier coulage
+if (CoulageVolumetrique.ModeCoulageDefini = FALSE)
+  	Screen.ScreenChange(Mode_injection);
+else
+  	Screen.ScreenChange(injecteur_1);
+endif
